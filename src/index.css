@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.toast {
+    border: 1px solid #eee;
+    padding: 8px 20px;
+    color: #4f46e5;
+    width: 100%
+}
